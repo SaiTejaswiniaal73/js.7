@@ -39,7 +39,7 @@ student
     ? console.log("Frontend Developer")
     : result_uiux
     ? console.log("UI/UX Designer")
-    : console.log("Please improve your skills")
+    : console.log("Please improve your skills by joining 1000 coders")
   : console.log("Please login");
 
 //give full stack
